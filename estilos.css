@@ -94,7 +94,6 @@ a {
 #main-title p{
     font-size: 1.5em;
     opacity: 0.6;
-    visibility: hidden;
     animation: fadeInDown 1s ease-out forwards; 
 }
 
